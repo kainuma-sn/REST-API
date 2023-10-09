@@ -10,7 +10,7 @@
 - 1.Git<br>
 > ![image](https://github.com/kainuma-sn/REST-API/assets/145829664/c8b84611-74e8-4ffa-aa24-993066efb659)<br>
 - 2.Postman<br>
-> ![image](https://github.com/kainuma-sn/REST-API/assets/145829664/01246fb7-f8bb-4804-a51a-21c05e1c4d5c)<br>
+> ![image](https://github.com/kainuma-sn/REST-API/assets/145829664/1d0413f5-6619-46f4-a35f-3cad7597549d)<br>
 ### PATCHリクエスト<br>
 - 1.Git<br>
 > ![image](https://github.com/kainuma-sn/REST-API/assets/145829664/7d141194-cac3-4537-a8c5-0fb527e8d253)<br>
